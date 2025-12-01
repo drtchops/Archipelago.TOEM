@@ -1,5 +1,7 @@
 # Archipelago.TOEM
 
+**This project is archived, see https://github.com/bbernardoni/Archipelago.TOEM instead**
+
 Randomizer mod for TOEM: A Photo Adventure that integrates with [Archipelago](https://archipelago.gg)
 
 ## Installation
